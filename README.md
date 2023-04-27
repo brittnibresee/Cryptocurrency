@@ -1,4 +1,4 @@
-## Unsupervisec machine learning and cCryptocurrency
+## Unsupervised machine learning and Cryptocurrency
 
 #Crypto Clustering overview:
 
